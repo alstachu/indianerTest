@@ -4,7 +4,7 @@ class Nacho {
  
   public function hasCheese($bool = true)
   {
-    return 'ff';
+    return 'Witamy w paczce Composera!';
   }
  
 }
