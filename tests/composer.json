@@ -1,0 +1,11 @@
+{
+	"name": "alex_jasper/calendar",
+	"description": "Kalendarz",
+	"repositories": [ { "type": "vcs", 
+	"url": "https://github.com/indianer89/indianerTest.git"
+	} ],
+	"require": {
+		"php": ">=5.4.0",
+		"indianer89/indianerTest": "dev-master"
+	}
+}
